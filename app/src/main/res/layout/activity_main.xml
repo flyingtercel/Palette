@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_con"
+        android:layout_width="match_parent"
+        android:layout_height="120dp" />
+    <TextView
+        android:id="@+id/tv_palette"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="Hello palette by yuan \n\n click me"
+        android:gravity="center"/>
+</LinearLayout>
